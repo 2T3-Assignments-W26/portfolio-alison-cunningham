@@ -1,0 +1,10 @@
+Educational experience:
+Second semester at John Abbott College in Computer Science Technology
+	- learning programming - c#
+	- networking
+	- git, Microsoft suite
+For experience:
+	-highlight projects that I've worked on for school
+		-game final project last semester
+		-rainfall calculator last semester
+		-assignment 2 from programming 2
