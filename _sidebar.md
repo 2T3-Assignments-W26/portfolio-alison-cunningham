@@ -6,3 +6,5 @@
   - [PowerShell](cheatsheets/powershell.md)
 
 - About Me
+  - [My Projects](aboutme/myProjects.md)
+  - [Online Resume](aboutme/Alison_Cunningham_1370596.md)
